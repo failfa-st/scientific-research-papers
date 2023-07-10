@@ -238,8 +238,6 @@ Lastly, our gratitude extends to the researchers and authors of previous studies
 
 ## References
 
-Please note that while I can provide a template and suggestions for types of references that might be cited in a real-world version of this paper, as of my last training data in September 2021, this specific HTEC concept does not exist in the scientific literature.
-
 1. Edenhofer, O., Pichs-Madruga, R., Sokona, Y., Seyboth, K., Matschoss, P., Kadner, S., Zwickel, T., Eickemeier, P., Hansen, G., Schlömer, S., von Stechow, C. (Eds.). (2011). IPCC Special Report on Renewable Energy Sources and Climate Change Mitigation. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 1075 pp. [IPCC report providing an overview of various renewable energy technologies, including marine energy]
 
 2. Bahaj, A. S. (2011). Generating electricity from the oceans. Renewable and Sustainable Energy Reviews, 15(7), 3399-3416. [Comprehensive review of different methods for generating electricity from the marine environment]
