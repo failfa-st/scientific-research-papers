@@ -2,8 +2,10 @@
 
 **Abstract:**
 
-The quest for sustainable and efficient renewable energy sources to address the global energy crisis is an ongoing endeavor. This paper proposes a novel conceptual design for a Hydrostatic Tidal Energy Converter (HTEC), aiming to maximize energy output and increase efficiency. Unlike traditional marine energy systems, HTEC harnesses two distinct forms of energy available in the marine environment: the kinetic energy of tidal currents and the potential energy arising from changes in water pressure due to tidal variations. This dual energy capture approach could potentially provide a more consistent power output across the entire tidal cycle, improving the overall efficiency and energy output of marine energy extraction. This paper provides an initial design for the HTEC, explores the material and technological advancements required, discusses potential challenges and their possible solutions, and provides future research directions. Although the HTEC faces significant challenges, with continuous research and development, it holds promise as a substantial contribution to our renewable energy portfolio.
-**Keywords:**
+The quest for sustainable and efficient renewable energy sources to address the global energy crisis is an ongoing endeavor. This paper proposes a novel conceptual design for a Hydrostatic Tidal Energy Converter (HTEC), aiming to maximize energy output and increase efficiency. Unlike traditional marine energy systems, HTEC harnesses two distinct forms of energy available in the marine environment: the kinetic energy of tidal currents and the potential energy arising from changes in water pressure due to tidal variations. This dual energy capture approach could potentially provide a more consistent power output across the entire tidal cycle, improving the overall efficiency and energy output of marine energy extraction. This paper provides an initial design for the HTEC, explores the material and technological advancements required, discusses potential challenges and their possible solutions, and provides future research directions. Although the HTEC faces significant challenges, with continuous research and development, it holds promise as a substantial contribution to our renewable energy portfolio.  
+
+**Keywords:**  
+
 Renewable Energy, Tidal Energy, Hydrostatic Pressure, Marine Energy, Energy Conversion
 
 **1. Introduction:**  
